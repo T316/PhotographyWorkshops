@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<photographers>
+  <photographer name="Bunny Nolan" primary-camera="Fuji X10" />
+  <photographer name="Opal Blue" primary-camera="Canon 30D" />
+  <photographer name="Jamie Mauger" primary-camera="Canon 5D">
+    <lenses>
+      <lens name="Pentax 77mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Gaston Mclees" primary-camera="Canon 60D" />
+  <photographer name="Rosalba Hane" primary-camera="Nikon D4S" />
+  <photographer name="Freeda Casimir" primary-camera="Canon 100D">
+    <lenses>
+      <lens name="Nikon 100mm f1,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Freeman Dalby" primary-camera="Pentax K-5 II">
+    <lenses>
+      <lens name="Pentax 26mm f2,8" />
+      <lens name="Pentax 135mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Krystin Lindstedt" primary-camera="Nikon D100" />
+  <photographer name="Harley Gerardo" primary-camera="Pentax K-r" />
+  <photographer name="Wilfredo Finnegan" primary-camera="Fuji XPro1">
+    <lenses>
+      <lens name="Pentax 135mm f2,8" />
+      <lens name="Tokina 200mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Johnathan Vazguez" primary-camera="Sony A55">
+    <lenses>
+      <lens name="Nikon 28mm f4,0" />
+      <lens name="Tokina 14mm f2,0" />
+      <lens name="Tamron 28mm f2,8" />
+      <lens name="Tokina 200mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Nam Dinkins" primary-camera="Pentax K110D">
+    <lenses>
+      <lens name="Canon 500mm f1,4" />
+      <lens name="Pentax 135mm f2,8" />
+      <lens name="Sigma 35mm f4,0" />
+      <lens name="Sigma 10mm f1,4" />
+      <lens name="Tokina 135mm f2,8" />
+      <lens name="Tamron 24mm f1,8" />
+      <lens name="Tamron 28mm f2,8" />
+      <lens name="Tamron 28mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Aimee Ochoa" primary-camera="Fuji XM1">
+    <lenses>
+      <lens name="Canon 70mm f4,0" />
+      <lens name="Nikon 10mm f4,0" />
+      <lens name="Nikon 14mm f2,0" />
+      <lens name="Pentax 77mm f2,8" />
+      <lens name="Pentax 100mm f4,0" />
+      <lens name="Sigma 24mm f4,0" />
+      <lens name="Tamron 24mm f1,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Shannon Clendenin" primary-camera="Nikon D300S">
+    <lenses>
+      <lens name="Canon 15mm f1,4" />
+      <lens name="Nikon 40mm f2,8" />
+      <lens name="Nikon 40mm f4,0" />
+      <lens name="Pentax 400mm f4,0" />
+      <lens name="Pentax 200mm f2,8" />
+      <lens name="Sigma 28mm f4,0" />
+      <lens name="Sigma 85mm f1,4" />
+      <lens name="Tamron 24mm f1,8" />
+      <lens name="Sigma 15mm f1,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Gena Gering" primary-camera="Nikon D800">
+    <lenses>
+      <lens name="Canon 22mm f3,5" />
+      <lens name="Tokina 14mm f2,0" />
+      <lens name="Tokina 20mm f2,0" />
+      <lens name="Tamron 28mm f2,8" />
+      <lens name="Tamron 30mm f2,8" />
+    </lenses>
+  </photographer>
+  <photographer name="Helena Cahn" primary-camera="Nikon D750">
+    <lenses>
+      <lens name="Canon 8mm f1,2" />
+      <lens name="Canon 10mm f3,5" />
+      <lens name="Canon 10mm f3,5" />
+      <lens name="Canon 85mm f4,0" />
+      <lens name="Canon 135mm f1,4" />
+      <lens name="Canon 350mm f1,4" />
+      <lens name="Sigma 8mm f1,4" />
+      <lens name="Tokina 14mm f2,0" />
+      <lens name="Tokina 135mm f2,8" />
+      <lens name="Tokina 200mm f2,8" />
+    </lenses>
+  </photographer>
+</photographers>
